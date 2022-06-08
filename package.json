@@ -1,7 +1,7 @@
 {
   "name": "akira",
   "version": "0.0.1",
-  "private": false,
+  "private": true,
   "scripts": {
     "d": "vercel dev",
     "build": "next build",
