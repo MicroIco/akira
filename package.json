@@ -1,6 +1,6 @@
 {
-  "name": "curve-api",
-  "version": "0.1.0",
+  "name": "akira",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "d": "vercel dev",
